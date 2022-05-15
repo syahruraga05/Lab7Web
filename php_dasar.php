@@ -7,7 +7,7 @@
 <body>
 <h2>Perulangan dowhile</h2>
 <?php
-echo "Perulangan 1 sampai 10 <br />";
+echo "Perulangan 1 sampai 20 <br />";
 $i=1;
 do {
     echo "Perulangan ke: " . $i . '<br />';
