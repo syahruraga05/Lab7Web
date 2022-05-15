@@ -30,7 +30,7 @@ Semua file website tempatkan di direktori: \xampp\htdocs\
 Direktori: \xampp\mysql\ <br>
 Manajemen database: http://localhost/phpmyadmin <br>
 * **Memulai PHP**<br>
-Buat folder pada root directoy web server **(c:\xampp\htdocs)**
+Buat folder pada root directoy web server **(d:\xampp\htdocs)**
 ![Gambar](/gambar/Capture1.PNG)<br>
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/Praktikum7/<br>
 maka akan muncul tampilan seperti ini.
@@ -39,50 +39,50 @@ maka akan muncul tampilan seperti ini.
 Buat file baru pada directory tersebut. Kemudian buat kode seperti berikut
 ![Gambar](/gambar/Capture3.PNG)<br>
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/Praktikum7/php_dasar.php <br>
-Maka akan muncul tampilan seperti berikut>
+Maka akan muncul tampilan seperti berikut.
 ![Gambar](/gambar/Capture4.PNG)<br>
 * **Variable PHP**<br>
-Menambahkan variable pada program
+Menambahkan variable pada program<br>
 ![Gambar](/gambar/Capture5.PNG)<br>
 Maka hasilnya seperti berikut.
 ![Gambar](/gambar/Capture6.PNG)<br>
-* **Predefine Variable $_GET**
+* **Predefine Variable $_GET**<br>
 ![Gambar](/gambar/Capture7.PNG)<br>
 Untuk mengaksesnya gunakan URL: http://localhost/Praktikum7/php_dasar.php?nama=Syahru<br>
 Maka hasilnya seperti berikut.
 ![Gambar](/gambar/Capture8.PNG)<br>
 * **Membuat Form Input**<br>
-Masukan kode seperti berikut.
+Masukan kode seperti berikut.<br>
 ![Gambar](/gambar/Capture9.PNG)<br>
 maka hasilnya seperti berikut.
 ![Gambar](/gambar/Capture10.PNG)<br>
-* **Operator**
-Masukan kode seperti berikut.
+* **Operator**<br>
+Masukan kode seperti berikut.<br>
 ![Gambar](/gambar/Capture11.PNG)<br>
 maka hasilnya seperti berikut
 ![Gambar](/gambar/Capture12.PNG)<br>
-* **Kondisi IF**
-Masukan kode seperti berikut.
+* **Kondisi IF**<br>
+Masukan kode seperti berikut.<br>
 ![Gambar](/gambar/Capture13.PNG)<br>
 maka hasilnya seperti berikut.
 ![Gambar](/gambar/Capture14.PNG)<br>
-* **Kondisi Switch**
-Masukan kode seperti berikut.
+* **Kondisi Switch**<br>
+Masukan kode seperti berikut.<br>
 ![Gambar](/gambar/Capture15.PNG)<br>
 maka hasilnya seperti berikut.
 ![Gambar](/gambar/Capture16.PNG)<br>
-* **Perulangan for**
-Masukan kode seperti berikut.
+* **Perulangan for**<br>
+Masukan kode seperti berikut.<br>
 ![Gambar](/gambar/Capture17.PNG)<br>
 maka hasilnya seperti berikut.
 ![Gambar](/gambar/Capture18.PNG)<br>
-* **Perulangan while**
-Masukan kode seperti berikut.
+* **Perulangan while**<br>
+Masukan kode seperti berikut.<br>
 ![Gambar](/gambar/Capture19.PNG)<br>
 maka hasilnya seperti berikut.
 ![Gambar](/gambar/Capture20.PNG)<br>
-* **Perulangan dowhile**
-Masukan kode seperti berikut.
+* **Perulangan dowhile**<br>
+Masukan kode seperti berikut.<br>
 ![Gambar](/gambar/Capture21.PNG)<br>
 maka hasilnya seperti berikut.
 ![Gambar](/gambar/Capture22.PNG)<br>
